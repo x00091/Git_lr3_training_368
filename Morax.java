@@ -18,7 +18,7 @@ public abstract class Unit {
         active = false;
     }
 
-    protected abstract boolean canBelongTo(Cell owner);
+
 
 
 
